@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.Form1.resources
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.Resources.resources
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\bin\Debug\HotelOccupancy.exe.config
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\bin\Debug\HotelOccupancy.exe
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\bin\Debug\HotelOccupancy.pdb
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\bin\Debug\HotelOccupancy.xml
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.exe
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.xml
+C:\Users\HP\Desktop\Edcc\Summer 18\CS115\Assignments\HotelOccupancy\HotelOccupancy\obj\Debug\HotelOccupancy.pdb
